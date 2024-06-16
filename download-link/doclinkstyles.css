@@ -1,0 +1,44 @@
+* {
+    font-family: 'Roboto Slab', serif;
+    background-color: transparent;
+}
+
+.doc ul {
+    width: 90%;
+}
+
+.doc ul h3 {
+    margin-top: 40px;
+    margin-bottom: 0;
+}
+
+.doc ul .doc-link,
+.doc ul p {
+    margin: 0;
+    padding: 0;
+    text-decoration: li;
+    color: black;
+}
+
+.doc ul .doc-word {
+    color: blue;
+}
+
+.doc ul .doc-pdf {
+    color: red;
+}
+
+.doc ul li {
+    margin: 5px;
+    padding: 0;
+}
+
+.doc ul hr{
+    margin-bottom: 15px;
+}
+
+body {
+    margin-bottom: 40px;
+    white-space: nowrap;
+}
+
